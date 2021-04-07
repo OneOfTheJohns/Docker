@@ -1,0 +1,2 @@
+1)docker build -t johnnginx .
+2)docker run -p 80:80 johnnginx
